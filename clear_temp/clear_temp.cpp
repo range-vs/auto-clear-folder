@@ -370,7 +370,7 @@ string read_value(string& str, vector<pair< string, int> >& sections, int line)
 		if (sections[i].first == section)
 		{
 			index = i;
-			break;
+			break; 
 		}
 		if (i == sections.size() - 1)
 			return "Неизвестная секция \"" + section + "\" (config.ini)\n";
