@@ -10,7 +10,7 @@ Example for path.txt:
 C:\Windows\Temp
 
 
-Example for confid ini:
+Example for config.ini:
 
 ; With the character ';' begins comment
 
