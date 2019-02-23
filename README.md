@@ -1,5 +1,5 @@
 # Auto clear temp folder
-Automatic system for clear temp folder.
+Automatic system for clear temp folder. Langauge and library: C/C++ and WinAPI.
 
 The this system clearing your folders automatic.
 For correctly working your should create path.txt and copy config.ini in root folder, where located your application.
