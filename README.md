@@ -1,4 +1,4 @@
-# auto-clear-folder
+# Auto clear temp folder
 Automatic system for clear temp folder.
 
 The this system clearing your folders automatic.
