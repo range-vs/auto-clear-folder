@@ -1,0 +1,7 @@
+D:\Program Files\X-Ray CoP SDK\editors\temp
+C:\Windows\SoftwareDistribution\DataStore
+C:\Windows\Temp
+C:\Users\admin_test\AppData\Local\Temp
+; C:\Windows\SoftwareDistribution\Download
+C:\Users\admin_test\AppData\Roaming\Skype\My Skype Received Files
+C:\Users\Public\Pictures\Screenshots

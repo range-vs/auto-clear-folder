@@ -1,0 +1,12 @@
+H:\Program Files\X-Ray CoP SDK\editors\temp
+H:\Program Files\X-Ray CS SDK\editors\temp
+H:\Program Files\X-Ray Lost Alpha SDK\temp
+H:\Program Files\X-Ray new SHoC SDK\editors\temp
+H:\Program Files\X-Ray SoC SDK\level_editor\temp
+C:\Windows\Temp
+C:\Users\Lagos_official_admin\AppData\Local\Temp
+C:\Windows\SoftwareDistribution\DataStore
+ ; C:\Windows\SoftwareDistribution\Download
+C:\Users\Lagos_official_admin\AppData\Roaming\Skype\My Skype Received Files
+C:\Users\Public\Pictures\Screenshots
+H:\Temp
